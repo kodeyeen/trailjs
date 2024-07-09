@@ -1,0 +1,24 @@
+{
+  "name": "trailjs",
+  "version": "1.0.0",
+  "description": "Mouse trail effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodeyeen/trailjs.git"
+  },
+  "keywords": [
+    "mouse",
+    "trail",
+    "effect"
+  ],
+  "author": "kodeyeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodeyeen/trailjs/issues"
+  },
+  "homepage": "https://github.com/kodeyeen/trailjs#readme"
+}
