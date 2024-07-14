@@ -1,3 +1,3 @@
 # trailjs
 
-Colored mouse trail effect that I implemented some time ago at my first job.
+Colored mouse trail effect that I implemented some time ago for my project.
